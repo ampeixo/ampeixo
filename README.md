@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ampeixo / Alberto Magno Peixoto
-- 👀 I’m interested in: Python | Arduino | Raspberry | NodeMCU | Automação Industrial/Residencial | DevOps 
-- 🌱 I’m currently learning: Python 3 | Docker
+- 👀 I’m interested in: Python | IoT | Arduino | Raspberry | NodeMCU | Automação Industrial/Residencial | DevOps 
+- 🌱 I’m currently learning: Python 3 | IoT | Docker
 - 📫 How to reach me: peixotoit@gmail.com
 
 <!---
