@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ampeixo / Alberto Magno Peixoto
+- 👋 Hi, I’m F3an0r / Alberto Magno
 - 👀 I’m interested in: Python | IoT | Arduino | Raspberry | NodeMCU | Cybersecurity
 - 🌱 I’m currently learning: Python 3 | IoT |
 - 📫 How to reach me: beto_veris@hotmail.com
