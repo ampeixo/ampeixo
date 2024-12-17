@@ -4,6 +4,6 @@
 - 📫 How to reach me: beto_veris@hotmail.com
 
 <!---
-ampeixo/ampeixo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
